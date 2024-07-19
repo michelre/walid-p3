@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color: #044406;
+}
+
+.card {
+  background: red;
+  height: 200px;
+  width: 200px;
+}
+.card .card-title {
+  color: orange;
+}
+
+/*# sourceMappingURL=style.css.map */
